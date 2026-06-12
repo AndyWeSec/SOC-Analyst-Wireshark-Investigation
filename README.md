@@ -21,4 +21,15 @@ Investigated a phishing-to-ransomware compromise using the TryHackMe Carnage PCA
 ### The name of the webserver of the malicious IP from which the zip file was downloaded
 <img width="849" height="717" alt="Screenshot 2026-06-12 at 15 51 31" src="https://github.com/user-attachments/assets/f9fce8ea-37e9-428c-9731-eac77fdcc506" />
 
+### The version of the webserver used for the malicious IP
+<img width="849" height="717" alt="Screenshot 2026-06-12 at 16 18 16" src="https://github.com/user-attachments/assets/b86fb2c4-41ee-47f8-9888-5d2e96022c94" />
+
+### Three malicious files were downloaded to the victim host from these multiple domains
+<img width="849" height="717" alt="Screenshot 2026-06-12 at 16 31 01" src="https://github.com/user-attachments/assets/0b71be63-155a-41fa-a3f0-62b853addcb8" />
+<img width="849" height="717" alt="Screenshot 2026-06-12 at 16 32 19" src="https://github.com/user-attachments/assets/73d0d3f6-1665-49f8-94e1-4ba70a7fd332" />
+<img width="849" height="717" alt="Screenshot 2026-06-12 at 16 35 45" src="https://github.com/user-attachments/assets/63cc1ddc-d4df-4050-b911-d305a43eb1fb" />
+<img width="849" height="717" alt="Screenshot 2026-06-12 at 16 42 01" src="https://github.com/user-attachments/assets/b5f720de-2343-4cdf-8201-99984ed984bb" />
+
+
+
 
